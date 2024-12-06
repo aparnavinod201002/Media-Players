@@ -5,7 +5,7 @@ import Footer from './Components/Footer'
 import Header from './Components/Header'
 import LandingPage from './pages/LandingPage'
 import Home from './pages/Home'
-import WatchHistory from './pages/watchHistory'
+import WatchHistory from './pages/WatchHistory'
 
 
 function App() {
